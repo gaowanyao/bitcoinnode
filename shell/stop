@@ -1,0 +1,2 @@
+#!/bin/sh
+./*-cli -conf=./bitcoin.conf -datadir=./data stop
